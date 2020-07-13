@@ -23,6 +23,6 @@ class Customer extends React.Component {
       </TableRow>
     );
   } //그려지는 내용
-} // 리액트의 컴포넌트 형태로 class 정의
+} //리액트의 컴포넌트 형태로 class 정의
 
 export default Customer; //Customer 내보내기
